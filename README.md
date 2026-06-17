@@ -2,6 +2,14 @@
 
 ![WebDojo Cover](.github/cover.png)
 
+## Estudos Pessoais
+
+Este fork está sendo utilizado por **Hermesson Yuri** para praticar automação de testes com Cypress durante os estudos de QA.
+
+Todos os créditos da aplicação WebDojo pertencem ao Fernando Papito e à equipe do Curso Ninja do Cypress.
+
+---
+
 ## 🚀 Sobre o Projeto
 
 O **WebDojo** é um aplicativo exclusivo para os alunos do **Curso Ninja do Cypress**, ministrado pelo mestre **Fernando Papito**! 🥷💻 Ele foi criado para ser um **campo de treinamento prático**, onde os alunos podem aprimorar suas habilidades em automação de testes com desafios e exercícios focados no **Cypress**.
